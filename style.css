@@ -1,0 +1,49 @@
+body{
+    background-color: peachpuff;
+    font-family: helvetica;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.element{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.content{
+    width: 50%;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 10px;
+    background-size: 100% 3rem;
+    box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+.heading{
+    color: #5a0c48c9;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+.mic{
+    color: #5a0c48c9;
+    width: fit-content;
+    padding: 10px 25px;
+    margin: 50px auto;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #5a0c48c9;
+}
+.saveas{
+    color: #5a0c48c9;
+    width: fit-content;
+    padding: 10px 25px;
+    margin: 50px auto;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #5a0c48c9;
+}
